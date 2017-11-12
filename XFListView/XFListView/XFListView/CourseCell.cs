@@ -7,7 +7,10 @@ using Xamarin.Forms;
 
 namespace XFListView
 {
-    class CourseCell : ViewCell
+    /// <summary>
+    /// Class CourseCell
+    /// </summary>
+    public class CourseCell : ViewCell
     {
         public CourseCell()
         {
